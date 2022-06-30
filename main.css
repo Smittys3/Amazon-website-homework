@@ -68,10 +68,9 @@ form {
     font-size: small;
   } 
 
-  /* I was trying to remove the underline from the links. */
-/* .legal {
+a:link {
     text-decoration: none;
-} */
+}
 
 
 
